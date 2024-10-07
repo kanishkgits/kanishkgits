@@ -1,14 +1,13 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Kanishk!
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername) 
-[![Linkedin: yourname](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
-[![Twitter: yourname](https://img.shields.io/twitter/follow/yourname?style=social)](https://twitter.com/yourname)
+[![GitHub followers](https://img.shields.io/github/followers/kanishkgits?label=Follow&style=social)](https://github.com/kanishkgits) 
+[![Linkedin: Kanishk Pandey](https://img.shields.io/badge/-kanishk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishk-pandey-a15b9123a/)](https://www.linkedin.com/in/kanishk-pandey-a15b9123a/)
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**. I'm constantly learning and building new things, and I'm excited to share my projects with you.
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: [Your Latest Project Name]!
+- 🔭 I’m currently working on: College Buddy!
 - 🌱 I’m currently learning: Full-stack development, blockchain, open source, AI, and Android development.
 - 💬 Ask me about: AI, Machine Learning, Full-Stack Development, and Open Source.
 - 👯 I’m looking to collaborate on: Projects that solve societal issues with technology.
@@ -32,14 +31,12 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Art
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkgits&show_icons=true&theme=radical" alt="kanishkgits's GitHub stats" />
 </p>
 
 ## 🔗 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourname)
-- [Personal Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/kanishk-pandey-a15b9123a)
 
 ---
 
